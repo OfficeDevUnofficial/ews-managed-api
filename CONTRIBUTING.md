@@ -2,7 +2,7 @@
 
 You can contribute to this project by doing any of the following:
 
-* Reporting bugs and features in the [issue tracker](https://github.com/officedev/ews-managed-api/issues).
+* Reporting bugs and features in the [issue tracker](https://github.com/OfficeDevUnofficial/ews-managed-api/issues).
 * Submitting and reviewing pull requests
 * Helping with documentation
 * Helping with testing

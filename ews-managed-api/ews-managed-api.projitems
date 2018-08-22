@@ -791,9 +791,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)UnifiedMessaging\UnifiedMessaging.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="$(MSBuildThisFileDirectory)CONTRIBUTING.md" />
     <None Include="$(MSBuildThisFileDirectory)Docs\License Terms.rtf" />
-    <None Include="$(MSBuildThisFileDirectory)README.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="$(MSBuildThisFileDirectory)Docs\README.htm" />

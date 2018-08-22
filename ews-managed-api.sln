@@ -19,6 +19,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Exchange.WebServi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Exchange.WebServices_Net45", "Microsoft.Exchange.WebServices_Net45\Microsoft.Exchange.WebServices_Net45.csproj", "{8DF99375-7C6B-4E1B-B585-4C12BF56410C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionWide", "SolutionWide", "{10FAE457-A56F-4AE3-8EC5-AF3765181F66}"
+	ProjectSection(SolutionItems) = preProject
+		CONTRIBUTING.md = CONTRIBUTING.md
+		license.txt = license.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		ews-managed-api\ews-managed-api.projitems*{03c3ba9d-03bc-467e-82bf-71c76d500545}*SharedItemsImports = 4
