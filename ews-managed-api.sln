@@ -17,11 +17,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Exchange.WebServi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Exchange.WebServices_Net461", "Microsoft.Exchange.WebServices_Net461\Microsoft.Exchange.WebServices_Net461.csproj", "{5FEC0ED9-07DE-49CA-ABA8-5C4EE87C7D9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Exchange.WebServices_Net45", "Microsoft.Exchange.WebServices_Net45\Microsoft.Exchange.WebServices_Net45.csproj", "{8DF99375-7C6B-4E1B-B585-4C12BF56410C}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		ews-managed-api\ews-managed-api.projitems*{03c3ba9d-03bc-467e-82bf-71c76d500545}*SharedItemsImports = 4
 		ews-managed-api\ews-managed-api.projitems*{3e3a1462-f87e-4eaf-a8df-203627d41e4a}*SharedItemsImports = 4
 		ews-managed-api\ews-managed-api.projitems*{5fec0ed9-07de-49ca-aba8-5c4ee87c7d9a}*SharedItemsImports = 4
+		ews-managed-api\ews-managed-api.projitems*{8df99375-7c6b-4e1b-b585-4c12bf56410c}*SharedItemsImports = 4
 		ews-managed-api\ews-managed-api.projitems*{c16ff8ad-8e97-49b3-89ac-d359e7c58930}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +56,10 @@ Global
 		{5FEC0ED9-07DE-49CA-ABA8-5C4EE87C7D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FEC0ED9-07DE-49CA-ABA8-5C4EE87C7D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FEC0ED9-07DE-49CA-ABA8-5C4EE87C7D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DF99375-7C6B-4E1B-B585-4C12BF56410C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF99375-7C6B-4E1B-B585-4C12BF56410C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF99375-7C6B-4E1B-B585-4C12BF56410C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF99375-7C6B-4E1B-B585-4C12BF56410C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
