@@ -21,6 +21,10 @@ EWS is in sustaining mode, the recommended access pattern for Office 365 and Exc
 There is no EWS replacement for on-premise Exchange. <br />
 For more information concerning EWS discontinuation, click [here](https://developer.microsoft.com/en-us/graph/blogs/upcoming-changes-to-exchange-web-services-ews-api-for-office-365/).
 
+## License
+
+[MIT](https://en.wikipedia.org/wiki/MIT_License)
+
 
 ## Releases
 
